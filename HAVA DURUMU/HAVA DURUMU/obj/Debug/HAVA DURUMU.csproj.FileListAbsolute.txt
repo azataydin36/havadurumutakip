@@ -1,0 +1,13 @@
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HAVA DURUMU.csproj.AssemblyReference.cache
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HavaDurumuApp.Form1.resources
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HAVA_DURUMU.Properties.Resources.resources
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HAVA DURUMU.csproj.GenerateResource.cache
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HAVA DURUMU.csproj.CoreCompileInputs.cache
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\bin\Debug\HAVA DURUMU.exe.config
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\bin\Debug\HAVA DURUMU.exe
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\bin\Debug\HAVA DURUMU.pdb
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HAVA DUR.587F50C4.Up2Date
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HAVA DURUMU.exe
+C:\Users\Azt\source\repos\HAVA DURUMU\HAVA DURUMU\obj\Debug\HAVA DURUMU.pdb
